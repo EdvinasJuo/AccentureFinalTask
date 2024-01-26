@@ -1,5 +1,5 @@
 username = 'edvinas68'
-password = 'Edvinas68'
+password = ''
 warehouse = 'COMPUTE_WH'
 database = 'COVID19_EPIDEMIOLOGICAL_DATA'
 schema = 'PUBLIC'
